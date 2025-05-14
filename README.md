@@ -51,4 +51,4 @@ Luego del análisis completo, se determinó que la **TIENDA 4** es la menos rent
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tuusuario/nombre-repo.git
+git clone https://github.com/jheimydev/Proyecto-Alura-Latam.git
